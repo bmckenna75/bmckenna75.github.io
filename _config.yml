@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: ./bobbym/
 description: Wizard Class Programmer
+baseurl: README.md
