@@ -1,6 +1,5 @@
 ### Welcome to Bobby McKenna's page
 
-Here you can:
-- Do literally nothing because the site is under construction
+Find me on [LinkedIn](https://www.linkedin.com/in/bobby-mckenna/).
 
 Thank you for visiting!
